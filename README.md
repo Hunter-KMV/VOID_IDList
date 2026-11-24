@@ -18,11 +18,11 @@ ID-лист сервера Unturned «VOID: Молот войны»: все пр
 
 | Мод | Ассетов |
 |---|---|
-| warhammer ([3467902563](https://steamcommunity.com/sharedfiles/filedetails/?id=3467902563)) | 59 |
-| void_vehicles ([3467904371](https://steamcommunity.com/sharedfiles/filedetails/?id=3467904371)) | 32 |
+| warhammer ([3467902563](https://steamcommunity.com/sharedfiles/filedetails/?id=3467902563)) | 87 |
+| void_vehicles ([3467904371](https://steamcommunity.com/sharedfiles/filedetails/?id=3467904371)) | 33 |
 | Unturned (базовая игра) | 2699 |
 
-Всего ассетов: **2790**, иконок: **2331**.
+Всего ассетов: **2819**, иконок: **2360**.
 
 ## Ссылки
 

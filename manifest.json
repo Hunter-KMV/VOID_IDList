@@ -2,20 +2,20 @@
   "schema": "void-idlist",
   "schema_version": 1,
   "generator": "VOID ID-List Builder 1.0.0",
-  "generated_at": "2026-11-07T18:53:10Z",
+  "generated_at": "2026-11-24T11:28:54Z",
   "project": "VOID: Молот войны",
   "base_url": "https://raw.githubusercontent.com/Hunter-KMV/VOID_IDList/main/",
-  "content_hash": "8fac752e2e92c86fbee03a67adf3b38518be4632",
+  "content_hash": "0b15a2a58d6304a5131416d04906530e90374b05",
   "files": {
     "idlist": "idlist.json",
     "icons_dir": "icons/",
     "viewer": "index.html"
   },
   "counts": {
-    "assets": 2790,
-    "icons": 2331,
+    "assets": 2819,
+    "icons": 2360,
     "by_category": {
-      "ITEM": 2566,
+      "ITEM": 2595,
       "VEHICLE": 224
     }
   },
@@ -23,12 +23,12 @@
     {
       "key": "3467902563",
       "title": "warhammer",
-      "asset_count": 59
+      "asset_count": 87
     },
     {
       "key": "3467904371",
       "title": "void_vehicles",
-      "asset_count": 32
+      "asset_count": 33
     },
     {
       "key": "unturned",
